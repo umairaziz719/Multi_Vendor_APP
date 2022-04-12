@@ -1,2 +1,30 @@
 # Multi_Vendor_APP
- 
+
+###### Design courtesy : https://dribbble.com/shots/3005605-Spending-App-Another-Exploration/attachments/628276
+
+### Plugin
+1. Google Map plugin : https://pub.dartlang.org/packages/map_view
+2. MapBox plugin : https://pub.dartlang.org/packages/flutter_map
+
+###### Add Google Map key : `lib/details.dart` -> `API_KEY`
+
+### Widgets
+    1. ListView
+    2. TabBar
+    3. BoxDecoration - For boxshadow & rounded Image
+    4. Google map
+    5. MapBox map
+### Preview
+
+[<p>Home Screen</p><img src="http://demo.hupp.in/hupp-files/demo1.gif" width="270" height="480" alt="" >](http://demo.hupp.in/hupp-files/demo1.gif)
+
+
+[<p>Map (Google Map)</p><img src="http://demo.hupp.in/hupp-files/map1.png" width="270" height="480" alt="Brand-first shopping design" align="left">](http://demo.hupp.in/hupp-files/map1.png)
+[<img src="http://demo.hupp.in/hupp-files/map3.png" width="270" height="480" alt="Brand-first shopping design" align="">](http://demo.hupp.in/hupp-files/map3.png)
+
+
+[<p>Map (Mapbox Map)</p><img src="http://demo.hupp.in/hupp-files/map2.png" width="270" height="480" alt="Brand-first shopping design" align="">](http://demo.hupp.in/hupp-files/map2.png)
+
+
+
+created by : hello@hupp.in
